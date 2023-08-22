@@ -1,0 +1,39 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_3C0FF0E0_02EE_BB03_4185_BF9360EA21BC.source = https://sanubari360.jland.com.my
+LinkBehaviour_3CC9B9C2_02EE_AD04_4194_B491A41C4758.source = https://sanubari360.jland.com.my
+LinkBehaviour_3DF7A241_02ED_7F04_419F_A6D2272FDAB8.source = https://sanubari360.jland.com.my/type-a-ar-model
+LinkBehaviour_3DFA61EF_02ED_9D1D_4198_CE94EEAAC9FA.source = https://sanubari360.jland.com.my/type-b
+LinkBehaviour_3B68294F_02ED_AD1D_4174_D36BF4E311E9.source = https://sanubari360.jland.com.my/type-b
+
+## Media
+
+### Audio
+audiores_32F7EF30_1B4F_DB4F_41BA_E3A5F46A15A7.mp3Url = media/audio_3EA25283_1B4E_4551_41AA_070B06993A73_en.mp3
+audiores_32F7EF30_1B4F_DB4F_41BA_E3A5F46A15A7.mp3Url = media/audio_3EA25283_1B4E_4551_41AA_070B06993A73_en.mp3
+
+### Title
+video_2EC646B7_1CD9_CAB0_41B6_D268ECE103F7.label = LOADING ANIMATION 2
+model_3378E026_031D_FB0C_4179_2E6AB2F576DC.label = SANUBARI TYPE A 2
+
+### Video
+videolevel_28FDDCCA_1CCA_5ED3_41BB_0C904D594D09.url = media/video_2EC646B7_1CD9_CAB0_41B6_D268ECE103F7_en.mp4
+videolevel_28FDDCCA_1CCA_5ED3_41BB_0C904D594D09.posterURL = media/video_2EC646B7_1CD9_CAB0_41B6_D268ECE103F7_poster_en.jpg
+
+### Video Subtitles
+
+## Skin
+
+### Image
+Image_F0477102_FEB6_CF07_41E3_24B1BCA5F748.url = skin/Image_F0477102_FEB6_CF07_41E3_24B1BCA5F748_en.png
+Image_F0477102_FEB6_CF07_41E3_24B1BCA5F748_mobile.url = skin/Image_F0477102_FEB6_CF07_41E3_24B1BCA5F748_mobile_en.png
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Sanubari | Type A
